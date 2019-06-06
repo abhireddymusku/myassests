@@ -22,7 +22,7 @@ var awd_bg_number_of_curves = 64;
 ///** COUNTDOWN **/
 
 var awd_countdown = true;
-var awd_countdown_date = '2019/06/21 00:00:00'; // 2015-12-10
+var awd_countdown_date = '2016/07/09 00:00:00'; // 2015-12-10
 
 ///** BORDER **/
 
@@ -30,7 +30,7 @@ var awd_bordered = false;
 
 ///** CONTACT **/
 
-var awd_contact_email = 'info@awedoo.com'; // contact email address
+var awd_contact_email = 'email@example.com'; // contact email address
 var awd_contact_success = '<i class="icons fa fa-check valid"></i> Message has been sent'; // success submit message
 var awd_contact_input_error = '<i class="icons fa fa-close error"></i> all fields are required'; // input error message
 var awd_contact_email_error = '<i class="icons fa fa-close error"></i> email address is invalid'; // email error message
@@ -41,13 +41,13 @@ var awd_subscribe = 3; // 1 = php send email, 2 = save to txt file, 3 = mailchim
 
 ///* PHP SEND EMAIL */
 
-var awd_subscribe_email = 'contact@mylilthings.com'; // subscribe email address
+var awd_subscribe_email = 'email@example.com'; // subscribe email address
 var awd_subscribe_success = '<i class="icons fa fa-check valid"></i> thank you for subscribing'; // subscribe success message
 var awd_subscribe_error = '<i class="icons fa fa-close error"></i> email address is invalid'; // subscribe error message
 
 ///* MAILCHIMP */
-// var awd_mailchimp_url = '//privilegeapp.us17.list-manage.com/subscribe/post?u=8c6cc18a3516f667e7323beef&amp;id=d65dcefb0e';
-var awd_mailchimp_url = '//awedoo.us12.list-manage.com/subscribe/post?u=a54029bb78d4affa708c9d4b3&amp;id=179774c456'; // mailchimp post url
+
+var awd_mailchimp_url = 'mailchimp_post_url'; // mailchimp post url
 
 $.ajaxChimp.translations.eng = { // custom mailchimp message
     'submit': 'please wait',

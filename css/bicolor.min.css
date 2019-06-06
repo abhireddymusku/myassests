@@ -25,13 +25,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
  
-.icon-star:before { content: '\e800'; } /* 'î €' */
-.icon-mail:before { content: '\e801'; } /* 'î ' */
-.icon-params:before { content: '\e802'; } /* 'î ‚' */
-.icon-paint:before { content: '\e803'; } /* 'î ƒ' */
-.icon-cog:before { content: '\e804'; } /* 'î „' */
-.icon-paper-plane:before { content: '\e805'; } /* 'î …' */
-.icon-location:before { content: '\e806'; } /* 'î †' */
-.icon-pencil:before { content: '\e807'; } /* 'î ‡' */
-.icon-lightbulb:before { content: '\e808'; } /* 'î ˆ' */
-.icon-diamond:before { content: '\e809'; } /* 'î ‰' */
+.icon-star:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e801'; } /* '' */
+.icon-params:before { content: '\e802'; } /* '' */
+.icon-paint:before { content: '\e803'; } /* '' */
+.icon-cog:before { content: '\e804'; } /* '' */
+.icon-paper-plane:before { content: '\e805'; } /* '' */
+.icon-location:before { content: '\e806'; } /* '' */
+.icon-pencil:before { content: '\e807'; } /* '' */
+.icon-lightbulb:before { content: '\e808'; } /* '' */
+.icon-diamond:before { content: '\e809'; } /* '' */
